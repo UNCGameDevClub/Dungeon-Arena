@@ -1,3 +1,3 @@
 # Dungeon_Arena
 
-Developed with Unreal Engine 4
+Code Repo for the 2019-2020 UNC-CH Game Dev Club Project
