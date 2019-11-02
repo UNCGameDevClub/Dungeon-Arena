@@ -12,7 +12,7 @@ UNC-CH Game Development Club 2019-2020 project
 ### Developers
 - Andy Chen
 - Max Christman
-- Brad Weyand
+- [Brad Weyand](https://github.com/bsweyand)
 - David White
 - Sarah Young
 
@@ -21,7 +21,7 @@ UNC-CH Game Development Club 2019-2020 project
 
 ### Modelers
 - Grant McGrew
-- Madison Wright
+- [Madison Wright](https://github.com/WrightMadison)
 
 ### Musicians
 - Music Knight
