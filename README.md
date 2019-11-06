@@ -25,3 +25,13 @@ UNC-CH Game Development Club 2019-2020 project
 
 ### Musicians
 - Music Knight
+
+
+## Setup
+After downloading and opening the project, make sure to navigate to the WorldSettings (located on the right or by navigating to
+Settings > WorldSettings on the top quick access bar). On the GameMode Override option, select GM_Tutorial as the GamdeMode, this should enable the debugging character for testing guns (Note, this setup is only temporary and will not be needed once levels have been developed) 
+
+For reference: 
+
+<img src="https://cdn.discordapp.com/attachments/602595410581651459/641463593883140097/unknown.png" />
+
