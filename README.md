@@ -1,6 +1,7 @@
 # Dungeon Arena
 UNC-CH Game Development Club 2019-2020 project
-Unreal Engine 4 Version: 4.24
+
+**Unreal Engine 4 Version:** 4.24
 
 ## Documentation
 [Dungeon Arena Game Design Document](https://drive.google.com/file/d/1-KNggtI5aKWcaPmIsNY5ysCKOZsO96Ri/view?usp=sharing)
@@ -35,4 +36,3 @@ Settings > WorldSettings on the top quick access bar). On the GameMode Override 
 For reference: 
 
 <img src="https://cdn.discordapp.com/attachments/602595410581651459/641463593883140097/unknown.png" />
-
