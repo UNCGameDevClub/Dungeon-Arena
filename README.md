@@ -1,5 +1,6 @@
 # Dungeon Arena
 UNC-CH Game Development Club 2019-2020 project
+Unreal Engine 4 Version: 4.24
 
 ## Documentation
 [Dungeon Arena Game Design Document](https://drive.google.com/file/d/1-KNggtI5aKWcaPmIsNY5ysCKOZsO96Ri/view?usp=sharing)
